@@ -13,22 +13,41 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: "Gelting 1"
+email: info@hinterhalt.de
+locale: "de-DE"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Informationsseite zur Nutzungsänderung der Kulturbühne Hinterhalt in eine Fluggesellschaft
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://gelting1.de"
+
+footer:
+  links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/HinterhaltKulturb%C3%BChne/featured"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/KulturIsarLoisach"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/kulturbuhnehinterhalt/"
+    - label: "PayPal"
+      icon: "fab fa-fw fa-paypal"
+      url: "https://www.paypal.me/kilev"
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+repository: "gelting1/gelting1.github.io"
+github_username:  gelting1
+
+atom_feed:
+  hide: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
