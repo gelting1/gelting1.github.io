@@ -3,9 +3,8 @@ title: Eilmeldung - Nutzungsänderung
 date: 2021-05-01 11:00 CET
 language: de
 tags:
-- pressekonferenz
-- eilmeldung
-- nutzungsänderung
+  - eilmeldung
+  - nutzungsänderung
 ---
 Die Kulturbühne Hinterhalt wird zur Fluggesellschaft!
 
