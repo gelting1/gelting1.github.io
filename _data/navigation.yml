@@ -2,5 +2,12 @@
 main:
   - title: "Home"
     url: /
+  - title: "Meldungen"
+    url: /blog/
   - title: "Impressum"
     url: /impressum
+blog:
+  - title: "Aktuelle Meldungen"
+    url: /blog/
+  - title: "Meldungsarchiv"
+    url: /tags/

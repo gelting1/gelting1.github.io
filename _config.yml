@@ -38,13 +38,40 @@ footer:
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-include-cache
+
 
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 repository: "gelting1/gelting1.github.io"
 github_username:  gelting1
+
+# blog posts
+paginate: 5
+paginate_path: /blog/page:num
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      # author_profile: true
+      sidebar:
+        nav: "blog"
+      show_date: true
+      read_time: true
+      # comments: true
+      share: true
+      related: true
 
 atom_feed:
   hide: true
