@@ -1,6 +1,5 @@
 ---
 title: Eilmeldung - Nutzungsänderung
-image_path: /assets/images/runway.jpg
 date: 2021-05-01 11:00 CET
 language: de
 tags:

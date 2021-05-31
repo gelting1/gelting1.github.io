@@ -10,11 +10,11 @@ header:
   overlay_image: /assets/images/himmelfahrt-blau.jpg
 
 feature_row:
-  - image_path: /assets/images/runway.jpg
-    title: "Eilmeldung"
-    excerpt: "Die Kulturbühne Hinterhalt wird zur Fluggesellschaft!"
-    url: "https://www.kulturverein-isar-loisach.de/eilmeldug-nutzungsaenderung-kulturbuehne-hinterhalt-wird-zur-fluggesellschaft/"
-    btn_label: "Vollständige Meldung"
+  - image_path: /assets/images/gl4711.jpg
+    title: "Sonderflug GL4711"
+    excerpt: "Gelting 1 fliegt zur Bayerischen Staatskanzlei, um Ministerpräsident Dr. Markus Söder die Gründungsurkunde zu überreichen und erste Maßnahmen zur Sanierung einzuleiten."
+    url: "/2021/05/28/gl4711"
+    btn_label: "Flugbericht"
     btn_class: "btn--primary"
   - image_path: assets/images/boarding.jpg
     title: "Flugplan"
