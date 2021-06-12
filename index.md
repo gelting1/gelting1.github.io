@@ -30,6 +30,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+**Aktuelle Meldung: [Bekannter Flugzeugbauer unterstützt bei Live-Stream](/2021/06/12/nikolaus-auf-der-buehne)**
+{: .text-center}
+
 {% include feature_row %}
 
 ---
