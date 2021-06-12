@@ -18,6 +18,7 @@ gallery:
   - url: /assets/images/2021-05-himmelfahrt/image3.jpg
     image_path: /assets/images/2021-05-himmelfahrt/image3.jpg
     alt: "Gedenken an die Bücherverbrennung am 10. Mai 2021"
+    title: "Gedenken an die Bücherverbrennung am 10. Mai 2021"
   - url: /assets/images/2021-05-himmelfahrt/image4.jpg
     image_path: /assets/images/2021-05-himmelfahrt/image4.jpg
     alt: "Delta Line am 14. Mai 2021"
