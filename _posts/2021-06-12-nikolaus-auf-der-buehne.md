@@ -41,7 +41,7 @@ Gegen Ende des Livestreams wurde Nikolaus Sankthojanser von Bandleader Sebastian
 Flugs ließ er sich den Fender E-Bass aushändigen und unterstützte die Musiker bei ihrer Zugabe.
 
 Das Ganze wurde natürlich auch in
-[Bild und Ton auf dem YouTube-Kanal der Kulturbühne Hinterhalt](https://www.youtube.com/watch?v=U7ufaBuKQJM&t=4238s){:target="_blank"}
+[Bild und Ton auf dem YouTube-Kanal der Kulturbühne Hinterhalt](https://www.youtube.com/watch?v=4s9xzEVLzMU&t=4549s){:target="_blank"}
 festgehalten!
 
 {% include gallery caption="Fluzeugbauer Nikolaus Sanktjohanser gastiert im LIVE-Stream" %}
